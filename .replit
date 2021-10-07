@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "clone"
+run = "npm start"
